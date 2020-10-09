@@ -2,7 +2,7 @@
 <html lang="pt">
   <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>Aula1</title>
   </head>
   <body>
 	<h3>Olá!</h3> <br /><h4>Esta página é do Daniel Ventura!</h4>
